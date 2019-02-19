@@ -1,2 +1,1 @@
-# BlueDiamond
-	* Helloworld program
+Helloworld program
