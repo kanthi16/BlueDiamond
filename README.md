@@ -1,2 +1,2 @@
 # BlueDiamond
-	* Helloworld java program
+	* Helloworld program
